@@ -1,0 +1,6 @@
+[submodule "movie-service"]
+	path = movie-service
+	url = https://github.com/BrianPeguero/movie-service.git
+[submodule "cast-service"]
+	path = cast-service
+	url = https://github.com/BrianPeguero/cast-service.git
